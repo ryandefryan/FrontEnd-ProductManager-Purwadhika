@@ -1,0 +1,12 @@
+.warning{
+    font-size: 12px;
+    color: salmon;
+}
+
+.my-card{
+    height: 100%;
+}
+
+.my-card span{
+    font-size: 14px;
+}
